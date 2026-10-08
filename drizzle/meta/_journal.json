@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1778487550486,
+      "tag": "0000_natural_skullbuster",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1778487719620,
+      "tag": "0001_neat_alex_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1778490042379,
+      "tag": "0002_superb_wolfpack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1780733316388,
+      "tag": "0003_shiny_inertia",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1780735261076,
+      "tag": "0004_living_lila_cheney",
+      "breakpoints": true
+    }
+  ]
+}

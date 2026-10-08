@@ -1,0 +1,1 @@
+ALTER TABLE `song_requests` ADD `tableNo` varchar(32);
